@@ -1,5 +1,7 @@
 # DIJKSTRA_PRM
-Implementation of the PRM method on a given map with obstacles, and the shortest path to the designated target using Dijkstra algorithm 
+PRM, probabilistic road map method implementation, on a given map with obsticals.
+For shortest path generation a Dijkstra algorithm was writen, the code is tested on different numbers of nodes for PRM construction. 
+
 by Eli Goldenshluger & Nitzan Makmal 
 
 
